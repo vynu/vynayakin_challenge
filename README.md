@@ -2,10 +2,15 @@
 
 1. terraform scripts creates aws resources 
      a. vpc, subnets , security groups
+
      b. resources like EC2 autoscaling groups with ELB, autoscaling policies and cloudwatch alarms
+
      c. iam server certificates for ELB ssl
-     e. EC2 instances will be created with matching scaling policies (high/low CPU metrics) 
+
+     e. EC2 instances will be created with matching scaling policies (high/low CPU metrics)
+ 
      d. GO webserver will be installed is docker container with SSL and HTTP to HTTPS port forwarding.
+
      
 2. GO program contains webserver code  with SSL.
 3. credit_check program contains credit card number validation code in python.
