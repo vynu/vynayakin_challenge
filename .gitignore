@@ -8,9 +8,9 @@ NAT-gw.txt
 tfplan
 
 #other files
-.crt
-.key
-.pdf
+*.crt
+*.key
+*.pdf
 
 
 
