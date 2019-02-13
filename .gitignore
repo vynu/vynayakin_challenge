@@ -5,6 +5,7 @@
 *.tfstate*
 .terraform/
 NAT-gw.txt
+tfplan
 
 #other files
 .crt
