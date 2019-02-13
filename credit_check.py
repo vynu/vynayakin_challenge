@@ -9,7 +9,6 @@ def is_valid_creditcard(sequence):
     else:
         print('Invalid')
 
-
 num_inputs = int(input("Enter number of cards to be validated:\n"))
 
 for i in range(0, num_inputs):
