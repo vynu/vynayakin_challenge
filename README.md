@@ -1,6 +1,7 @@
 # what is this repo about :
 
 1. terraform scripts creates aws resources 
+
      a. vpc, subnets , security groups
 
      b. resources like EC2 autoscaling groups with ELB, autoscaling policies and cloudwatch alarms
