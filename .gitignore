@@ -1,0 +1,30 @@
+# Terraform files
+.terraform
+*.tfstate
+*.tfvars
+*.tfstate*
+.terraform/
+NAT-gw.txt
+
+#other files
+.crt
+.key
+.pdf
+
+
+
+# OS X files
+.history
+.DS_Store
+._.DS_Store
+
+# IntelliJ files
+.idea_modules
+*.iml
+*.iws
+*.ipr
+.idea/
+build/
+*/build/
+out/
+/tfplan
