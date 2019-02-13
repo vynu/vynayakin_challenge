@@ -10,7 +10,7 @@
 
      e. EC2 instances will be created with matching scaling policies (high/low CPU metrics)
  
-     d. GO webserver will be installed is docker container with SSL and HTTP to HTTPS port forwarding.
+     d. GO webserver will be installed in docker container with SSL and HTTP to HTTPS port forwarding.
 
      
 2. GO program contains webserver code  with SSL.
